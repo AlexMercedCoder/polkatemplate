@@ -14,4 +14,4 @@ var corsOptions = {
   },
 };
 
-module.exports = corsOptionsDelegate;
+module.exports = corsOptions;
